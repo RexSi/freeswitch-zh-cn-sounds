@@ -12,8 +12,8 @@
 * 其它：还有些朋友也有贡献，未一一搜罗
 
 录音文本见：
-
-<https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse/docs/phrase/phrase_zh_CN.xml>
+20241022 更新網址
+[<https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse/docs/phrase/phrase_zh_CN.xml>](https://github.com/signalwire/freeswitch/blob/master/docs/phrase/phrase_zh_CN.xml)
 
 原始地址：
 <https://git.coding.net/dujinfang/zh.git>
